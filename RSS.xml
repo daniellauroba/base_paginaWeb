@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+<title>titulo</title>
+<link>url_github</link>
+<description>descripcion</description>
+<image>
+<url>url_imagen_portada</url>
+<title>titulo</title>
+<link>url_github</link>
+</image>
+<item>
+<title>titulo del html</title>
+<link>url_github/nombre.html</link>
+<description>descripcion</description>
+</item>
+<item>
+<title></title>
+<link></link>
+<description></description>
+</item>
+<item>
+<title></title>
+<link></link>
+<description></description>
+</item>
+<title></title>
+<link></link>
+<description></description>
+</item>
+  </channel>
+</rss>
